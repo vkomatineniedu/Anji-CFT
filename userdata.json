@@ -358,7 +358,8 @@
 			"sudo yum install -y httpd\n",
 			"sudo systemctl enable httpd\n",
 			"sudo systemctl start httpd\n",
-			"setenforce 0"
+			"setenforce 0\n",
+		        "echo wlecome CFT-ANJI >>/var/www/html/index.hmtl"
 			] ]
     }
 }
