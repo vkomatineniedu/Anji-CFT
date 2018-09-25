@@ -294,7 +294,7 @@
 
       "us-west-2"        : {"PV64" : "ami-7f77b31f", "HVM64" : "ami-28e07e50", "HVMG2" : "ami-ee15a196"},
 
-      "us-west-1"        : {"PV64" : "ami-a2490dc2", "HVM64" : "ami-18726478", "HVMG2" : "ami-0da4a46d"},
+      "us-west-1"        : {"PV64" : "ami-a2490dc2", "HVM64" : "ami-0bdb828fd58c52235", "HVMG2" : "ami-0da4a46d"},
 
       "eu-west-1"        : {"PV64" : "ami-4cdd453f", "HVM64" : "ami-d834aba1", "HVMG2" : "ami-af8013d6"},
 
